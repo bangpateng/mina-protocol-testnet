@@ -646,7 +646,15 @@ Jika ada Output Error Seperti Ini Abaikan Dan Tunggu Hingga Proses Selesai :
 3. Jika Sudah, Paste ke Google Chrome
 4. Jika Berjalan Dengan Baik Maka, Akan Terbuka dan Meminta Aprrove Transaksi dari Wallet Mina Kalian
 
-## 14 . Submit Form Register
+## 13. Send Beberapa Transaksi Bebas Kalo Bisa 5 Lebih
+
+1. Buka Link `https://<Your-Username>.github.io/04-zkapp-browser-ui/index.html` Kalian
+2. Connect Wallet
+3. Refresh Web Tunggu Sampe Muncul Tombol `Send Transaksi` 
+4. Tunggu Muncul Pop Up Approve Transaksi
+5. Emang Lama Nongol Pop Up Jadi KUDU SABAARR
+
+## 15 . Submit Form Register
 
 1. Link : https://fisz9c4vvzj.typeform.com/zkSparkTutorial
 2. Masukan Username Discord
