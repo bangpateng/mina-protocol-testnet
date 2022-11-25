@@ -93,8 +93,7 @@ zk --version
 zk project 04-zkapp-browser-ui --ui next
 ```
 
-1 . pilih Yes 3x dan `Enter`
-2 . Biarkan Hingga Proses Instalisasi Selesai
+1 . pilih Yes 3x dan `Enter` Biarkan Hingga Proses Instalisasi Selesai
 
 ## 5 . Buat Repository di Github kalian
 
