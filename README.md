@@ -111,7 +111,7 @@ git remote add origin <your-repo-url>
 git push -u origin main
 ```
 
-Your-Repo-Url = Check di Repository Yang Sudah Kalian Buat
+`<Your-Repo-Url>` = Check di Repository Yang Sudah Kalian Buat
 
 Lalu Nanti Anda Akan di Mintai Username dan Juga Password Github Anda (Jika Terjadi Error) Anda Harus Membuat Token Acces Sebagian Pengganti Password Nya, Caranya : 
 
