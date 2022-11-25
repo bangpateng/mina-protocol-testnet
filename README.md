@@ -113,6 +113,14 @@ git push -u origin main
 
 Your-Repo-Url = Check di Repository Yang Sudah Kalian Buat
 
+Lalu Nanti Anda Akan di Mintai Username dan Juga Password Github Anda (Jika Terjadi Error) Anda Harus Membuat Token Acces Sebagian Pengganti Password Nya, Caranya : 
+
+1. Pergi ke `Settingan Profil` Github Anda
+2. `Depelover Setting`
+3. `Personal Acces Token` > Pilih yang `Token (Classic)`
+4. Lalu `Generate` dan Centang Bagian `Repo`
+5. Token Acces Sudah Jadi, Itu Untuk Pengganti Password Github Anda
+
 ## 6 . Run Contract
 
 ```
