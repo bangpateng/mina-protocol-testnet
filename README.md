@@ -663,3 +663,13 @@ Jika ada Output Error Seperti Ini Abaikan Dan Tunggu Hingga Proses Selesai :
 5. Masukan Link Profil Github Kalian
 6. Kasih Bacotan Indah Mengenai Project Ini
 7. Done
+
+## 16 . Cara Uninstal Semua (Jika Pengen Menghapus)
+
+```
+rm -rf 04-zkapp-browser-ui
+rm -rf zkapp-cli
+rm -rf .npm
+npm uninstall -g zkapp-cli
+sudo apt-get remove nodejs
+```
