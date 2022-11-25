@@ -651,7 +651,7 @@ Jika ada Output Error Seperti Ini Abaikan Dan Tunggu Hingga Proses Selesai :
 1. Buka Link `https://<Your-Username>.github.io/04-zkapp-browser-ui/index.html` Kalian
 2. Connect Wallet Mina nya dan Approve
 3. Refresh Web Tunggu Sampe Muncul Tombol `Send Transaksi` 
-4. Tunggu Muncul Pop Up Approve Transaksi
+4. Tunggu Muncul Pop Up Approve Transaksi > Isi Fee 1 
 5. Emang Lama Nongol Pop Up Jadi KUDU SABAARR
 
 ## 15 . Submit Form Register
